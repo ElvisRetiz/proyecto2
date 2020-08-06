@@ -1,4 +1,12 @@
 body {
-  color: blueviolet;
-  text-align: center;
+  color: rgb(119, 119, 119);
+  text-align: left;
+  padding: 100px;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+  border: solid 1px rgb(92, 92, 92);
+  padding: 30px;
 }
