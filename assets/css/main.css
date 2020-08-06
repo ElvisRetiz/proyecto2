@@ -8,5 +8,22 @@ body {
   width: 70%;
   margin: 0 auto;
   border: solid 1px rgb(92, 92, 92);
+  padding: 0;
+}
+
+.cabecera {
+  display: flex;
+  align-items: center;
+  height: 2rem;
+  background-color: rgb(51, 51, 182);
+  padding: 10px;
+  color: white;
+}
+
+.cabecera h3 {
+  margin: 0 10px;
+}
+
+.blog {
   padding: 30px;
 }
